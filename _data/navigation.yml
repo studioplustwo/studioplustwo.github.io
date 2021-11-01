@@ -1,6 +1,7 @@
-- name: Blog
-  link: /blog/
 - name: About
-  link: /about/
+  link: /#learn-more
+- name: Blog
+  link: https://studioplustwo.hatenablog.jp/
+  new_window: true
 - name: Contact
-  link: /contact/
+  link: /#contact

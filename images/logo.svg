@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="280"
+   viewBox="0 0 158.75 74.083341"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="600px"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="-89.720624"
+     inkscape:cy="128.84691"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="384.51696"
+       y="221.2659"
+       width="350.7874"
+       height="174.04452"
+       id="rect72201" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter81560"
+       x="0"
+       y="0"
+       width="1.0066249"
+       height="1.0144269">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(221,221,221)"
+         result="flood"
+         id="feFlood81550" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite81552" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur81554" />
+      <feOffset
+         dx="1"
+         dy="1"
+         result="offset"
+         id="feOffset81556" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite81558" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458335)"
+       id="text72199"
+       style="line-height:1.25;font-family:'Helvetica Neue';font-size:40px;-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect72201)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="テキスト"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:29.3211px;line-height:0.8;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;stroke-width:0.392692;filter:url(#filter81560)"
+       x="2.7679117"
+       y="24.001719"
+       id="text1947"><tspan
+         sodipodi:role="line"
+         id="tspan1945"
+         style="font-size:29.3211px;fill:#ffc000;fill-opacity:1;stroke-width:0.392692"
+         x="2.7679117"
+         y="24.001719"><tspan
+   style="word-spacing:0px;fill:#ff7000;fill-opacity:1;stroke-width:0.392692"
+   id="tspan44579">S</tspan>TUDIO</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:29.3211px;fill:#ffc000;fill-opacity:1;stroke-width:0.392692"
+         x="2.7679117"
+         y="47.458599"
+         id="tspan1949"><tspan
+   style="fill:#ff7000;fill-opacity:1;stroke-width:0.392692"
+   id="tspan48931">P</tspan>LUS</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:29.3211px;letter-spacing:0px;fill:#ffc000;fill-opacity:1;stroke-width:0.392692"
+         x="2.7679117"
+         y="70.915482"
+         id="tspan38462"
+         dx="0 -0.49999979"><tspan
+   style="letter-spacing:3.96875px;fill:#ff7000;fill-opacity:1;stroke-width:0.392692"
+   id="tspan50509"
+   dx="2">T</tspan>WO</tspan></text>
+  </g>
+</svg>
