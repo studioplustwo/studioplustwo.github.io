@@ -23,6 +23,23 @@
                                 function gtag(){dataLayer.push(arguments);}
                                 gtag('js', new Date());
                                 gtag('config', '{{ site.google_analytics_key }}');
+                                gtag('config', 'AW-986710810'); // Google Ads
+                        </script>
+                        <!-- Event snippet for 問い合わせ conversion page
+                             In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+                        <script>
+                                function gtag_report_conversion(url) {
+                                    var callback = function () {
+                                        if (typeof(url) != 'undefined') {
+                                            window.location = url;
+                                        }
+                                    };
+                                    gtag('event', 'conversion', {
+                                        'send_to': 'AW-986710810/aN_aCN7e4gsQmobA1gM',
+                                        'event_callback': callback
+                                    });
+                                    return false;
+                                }
                         </script>
 		{% endif %}
 	</head>
