@@ -1,9 +1,11 @@
 left_links:
   - name: About
     link: /#learn-more
+  - name: Service
+    link: /service/
+  - name: Contact
+    link: /#contact
   - name: Blog
     link: https://studioplustwo.hatenablog.jp/
     new_window: true
-  - name: Contact
-    link: /#contact
 right_links:

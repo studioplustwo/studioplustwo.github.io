@@ -1,7 +1,9 @@
 - name: About
   link: /#learn-more
-- name: Blog
-  link: https://studioplustwo.hatenablog.jp/
   new_window: true
+- name: Service
+  link: /service/
 - name: Contact
   link: /#contact
+- name: Blog
+  link: https://studioplustwo.hatenablog.jp/
