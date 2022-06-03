@@ -12,3 +12,46 @@
 @import "forms";
 @import "navigation";
 @import "footer";
+
+.align-center-important {
+    width: 800px !important;
+    text-align: center !important;
+}
+
+.background-white {
+    background-color: #fff;
+}
+
+.text-black {
+    color: #212121 !important;
+}
+
+.text-gray {
+    color: #777 !important;
+}
+
+.text-shadow-zero {
+    text-shadow: 0 0 black !important;
+}
+
+.noto {
+    font-family: 'Noto Sans JP', sans-serif !important;
+}
+
+.fs-16 {
+    font-size: 16pt;
+}
+
+.button.alt a.fulltext {
+    background: #000;
+    border: 2px solid #000;
+    color: #fff !important;
+}
+
+.pb-30 {
+    padding-bottom: 30px !important;
+}
+
+.pt-20 {
+    padding-top: 20px !important;
+}
