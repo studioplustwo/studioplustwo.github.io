@@ -64,3 +64,19 @@ p, address {
 	line-height: 1.6em;
 	font-family: 'Lato', sans-serif;
 }
+
+table {
+    border: 1px solid #999999;
+}
+
+th {
+    border: 1px solid #cccccc;
+    background-color: #cce6ff;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #cccccc;
+    padding: 10px;
+}

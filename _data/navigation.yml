@@ -1,6 +1,5 @@
 - name: About
-  link: /#learn-more
-  new_window: true
+  link: /about/
 - name: Service
   link: /service/
 - name: Contact
