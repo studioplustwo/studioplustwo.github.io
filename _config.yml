@@ -11,7 +11,7 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 lang: ja_JP
-description: 横浜を拠点として活動するエンジニアリングチーム、STUDIO PLUS TWO (スタジオ・プラスツー)。全文検索専門ソリューションなど、プラスワンを超えた「プラスツー」の価値を提供します。
+description: 横浜を拠点として活動するエンジニアリングチーム、STUDIO PLUS TWO (スタジオプラスツー)。全文検索専門ソリューションなど、プラスワンを超えた「プラスツー」の価値を提供します。
 author:
   name:
   email:
