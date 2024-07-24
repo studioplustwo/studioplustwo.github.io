@@ -1,10 +1,10 @@
-- name: About
+- name: トップ
+  link: /
+- name: 会社紹介
   link: /about/
-- name: Service
+- name: サービスメニュー
   link: /service/
-- name: Contact
+- name: お問い合わせ
   link: /#contact
-- name: Privacy Policy
+- name: プライバシーポリシー
   link: /privacy/
-- name: Blog
-  link: https://studioplustwo.hatenablog.jp/

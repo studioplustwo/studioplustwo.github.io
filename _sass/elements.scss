@@ -8,7 +8,9 @@ html, body {
 }
 
 body {
-	font-family: 'Rubik', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 300;
+    line-height: 1.8em;
 }
 
 a {
@@ -60,9 +62,12 @@ ul {
 p, address {
 	font-size: 1.38em;
 	margin-bottom: 20px;
-	font-weight: 300;
 	line-height: 1.6em;
-	font-family: 'Lato', sans-serif;
+	// font-weight: 700;
+}
+
+p.bold {
+    font-weight: 700;
 }
 
 table {
