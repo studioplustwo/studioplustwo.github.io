@@ -16,7 +16,7 @@
 		left: 0;
 		right: 0;
 		height: 100px;
-}
+	}
 
 	p {
 		color: #fff;
@@ -29,12 +29,13 @@
 	}
 
 	.hero-text-container {
-		width: 600px;
-		text-align: left;
+	    width: 700px;
+	    text-align: left;
+	    z-index: 7000;
 
-		h1, h2, p, .button {
-			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
-		}
+	    h1, h2, p, .button {
+		text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+	    }
 	}
 
 	.hero-text-right {
@@ -46,6 +47,17 @@
 .image {
 	text-align: center;
 }
+
+.hero-home:after {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .12);
+}
+
 
 .bottom-cta {
 	text-align: center;
