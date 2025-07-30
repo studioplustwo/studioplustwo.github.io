@@ -44,6 +44,30 @@
                                     return false;
                                 }
                         </script>
+			<!-- Yahoo -->
+			<script async src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
+			<script>
+			  window.yjDataLayer = window.yjDataLayer || [];
+			  function ytag() { yjDataLayer.push(arguments); }
+			  ytag({"type":"ycl_cookie", "config":{"ycl_use_non_cookie_storage":true}});
+			</script>
+			<script async>
+			  function yahoo_report_conversion(url) {
+			      var opt = {
+				  "yahoo_conversion_id": 1001373790,
+				  "yahoo_conversion_label": "wTJQCJTd2vsaEPTK1uxA",
+				  "yahoo_conversion_value": 2000,
+				  "yahoo_remarketing_only": false,
+				  "onload_callback": function() {
+				      if (typeof(url) != 'undefined') {
+					  window.location = url;
+				      }
+				  }
+			      };
+			      ytag({"type":"yss_call_conversion", "config": opt});
+			      return false;
+			  }
+			</script>
 		{% endif %}
 	</head>
 
