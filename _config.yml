@@ -11,7 +11,7 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 lang: ja_JP
-description: 横浜を拠点として活動するWeb開発・コンサルティング会社の株式会社スタジオプラスツーです。全文検索専門ソリューションなど、プラスワンを超えた「プラスツー」の価値を提供します。
+description: 横浜を拠点に、企業のIT課題を技術で解決するIT相談パートナー。開発の進め方や技術選定、バックエンド開発、既存システム改善まで幅広く支援します。ITでお困りの際はお気軽にご相談ください。株式会社スタジオプラスツー
 author:
   name:
   email:
